@@ -1,0 +1,5 @@
+{
+  "name": "TinyWow Clone",
+  "description": "A feature-rich web application inspired by TinyWow, offering a suite of free online tools for PDF, image, video, and file manipulation. The interface is clean, modern, and user-friendly, providing easy access to a wide range of utilities.",
+  "requestFramePermissions": []
+}
